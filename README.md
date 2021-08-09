@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![](https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg) -->
-<img align="left" alt="GIF" src="https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg" width="408" height="318" />
+<img align="left" alt="GIF" src="https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg" width="350" height="400" />
 
-### Hi There👋, This is Rajiv's Repo &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajivharlalka.rajivharlalka)
+### Hi There👋, Welcome to Rajiv's Profile &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajivharlalka.rajivharlalka)
 
 - He is a second year undergraduate student from IIT Kharagpur,
 - He was last seen exploring Javascript and it's frameworks.

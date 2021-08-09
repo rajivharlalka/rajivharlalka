@@ -17,9 +17,17 @@ _Ways to contact him_
 Mail: rajivharlalka009@gmail.com 
 <br /><br /><br /><br />
 
-## His favourite piece of code 
+## His favourite lines
 
-`console.log("Why isnt this working");`
+```shell 
+create-react-app help
+cd help
+----make changes
+----everything gone wrong
+cd ..
+rm -rf help
+```
+
 
 📈 **My GitHub Stats:**
 

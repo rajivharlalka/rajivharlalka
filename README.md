@@ -22,8 +22,8 @@ Mail: rajivharlalka009@gmail.com
 ```shell 
 create-react-app help
 cd help
-----make changes
-----everything gone wrong
+----make changes---
+----everything gone wrong---
 cd ..
 rm -rf help
 ```

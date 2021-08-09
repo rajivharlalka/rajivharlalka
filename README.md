@@ -17,9 +17,9 @@ _Ways to contact him_
 Mail: rajivharlalka009@gmail.com 
 <br /><br /><br /><br />
 
-## His favourite piece of code
+## His favourite piece of code 
 
-```console.log("Why isnt this working");```
+`console.log("Why isnt this working");`
 
 📈 **My GitHub Stats:**
 

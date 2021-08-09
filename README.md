@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![](https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg) -->
-<img align="left" alt="GIF" src="https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg" width="350" height="400" />
+<img align="left" alt="GIF" src="https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg" width="330" height="400" />
 
 ### Hi There👋, Welcome to Rajiv's Profile &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajivharlalka.rajivharlalka)
 
@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - He loves talking, and always ready too.Feel free to contact him in your leisure time.
 
 _Ways to contact him_
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/rajivharlalka009)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TheRajiv_)

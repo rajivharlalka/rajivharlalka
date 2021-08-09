@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Hello](https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg)
+![](https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg)

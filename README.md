@@ -3,7 +3,9 @@
 ### Hi There👋, Welcome to Rajiv's Profile &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajivharlalka.rajivharlalka)
 
 #### A second year undergraduate student at IIT Kharagpur,
-Since he is not present here at the moment, feel free to explore his profile 😀 
+
+Since he is not present here at the moment, feel free to explore his profile 😀
+
 - He was last seen exploring Javascript and it's libraries.
 - He loves talking and making contacts. Feel free to contact him in your leisure time.
 
@@ -20,6 +22,6 @@ Mail: rajivharlalka009@gmail.com
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" width="95%" src="https://github-readme-stats.vercel.app/api?username=rajivharlalka&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em"align="left" width="95%" src="https://github-readme-stats.vercel.app/api?username=rajivharlalka&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img align="right"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajivharlalka&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>

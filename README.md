@@ -11,13 +11,15 @@ Since he is not present here at the moment, feel free to explore his profile ðŸ˜
 
 _Ways to contact him_
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/rajivharlalka009)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rajivharlalka009)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TheRajiv_)
 <br/>
-Mail: rajivharlalka009@gmail.com
+Mail: rajivharlalka009@gmail.com 
+<br /><br /><br /><br />
 
-<br />
-<br /><br /><br />
+## His favourite piece of code
+
+```console.log("Why isnt this working");```
 
 ðŸ“ˆ **My GitHub Stats:**
 

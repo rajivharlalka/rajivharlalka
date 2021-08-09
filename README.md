@@ -1,6 +1,6 @@
 <img align="left" alt="GIF" src="https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg" width="330" height="400" />
 
-### Hi There👋, Welcome to Rajiv's Profile &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajivharlalka.rajivharlalka)
+### Hi There👋, Welcome to Rajiv's Profile &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajivharlalka.rajivharlalka-1)
 
 #### A second year undergraduate student at IIT Kharagpur,
 

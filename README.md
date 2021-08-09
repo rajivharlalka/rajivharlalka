@@ -9,7 +9,7 @@
 
 _Ways to contact him_
 
-<br />
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](linkedin.com/in/rajivharlalka009)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TheRajiv_)
 <br/>

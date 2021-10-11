@@ -4,9 +4,10 @@
 
 #### A second year undergraduate student at IIT Kharagpur,
 
-Since he is not present here at the moment, feel free to explore his profile 😀
+Since he is not present here at the moment, I CheemChan(his friend) would help you explore his profile 😀
 
 - He was last seen exploring Javascript and it's libraries.
+- Currently ,he must be learning about Databases.
 - He loves talking and making contacts. Feel free to contact him in your leisure time.
 
 _Ways to contact him_

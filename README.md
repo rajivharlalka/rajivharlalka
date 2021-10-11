@@ -4,7 +4,7 @@
 
 #### A second year undergraduate student at IIT Kharagpur,
 
-Since he is not present here at the moment, I CheemChan(his friend) would help you explore his profile 😀
+Since he is not present here at the moment, I *Vijard* (why this name?) would help you explore his profile 😀
 
 - He was last seen exploring Javascript and it's libraries.
 - Currently ,he must be learning about Databases.

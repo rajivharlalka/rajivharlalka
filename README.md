@@ -1,4 +1,4 @@
-<img align="left" alt="GIF" src="https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/hello.jpg" width="330" height="400" />
+<img align="left" alt="GIF" src="https://github.com/rajivharlalka/rajivharlalka/blob/master/assets/shinchan.png" width="330" height="400" />
 
 ### Hi There👋, Welcome to Rajiv's Profile &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajivharlalka.rajivharlalka-1)
 

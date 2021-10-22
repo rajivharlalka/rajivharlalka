@@ -18,15 +18,10 @@ _Ways to contact him_
 Mail: rajivharlalka009@gmail.com 
 <br /><br /><br /><br />
 
-## His favourite lines
+## His current favourite line
 
 ```shell 
-create-react-app help
-cd help
-----make changes---
-----everything gone wrong---
-cd ..
-rm -rf help
+मंजिल मौत है , सफर का मजा लो
 ```
 
 

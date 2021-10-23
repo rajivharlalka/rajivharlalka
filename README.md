@@ -6,7 +6,7 @@
 
 Since he is not present here at the moment, I *Vijard* (why this name?) would help you explore his profile 😀
 
-- He was last seen exploring Javascript and it's libraries.
+- He was last seen figuring where to start **unknown** next.
 - Currently ,he must be learning about Databases.
 - He loves talking and making contacts. Feel free to contact him in your leisure time.
 

@@ -18,11 +18,7 @@ _Ways to contact him_
 Mail: rajivharlalka009@gmail.com 
 <br /><br /><br /><br />
 
-## His current favourite line
 
-```shell 
-मंजिल मौत है , सफर का मजा लो
-```
 
 
 📈 **My GitHub Stats:**

@@ -8,6 +8,7 @@ Since he is not present here at the moment, I *Vijard* (why this name?) would he
 
 - He was last seen figuring where to start **unknown** next.
 - Currently ,he must be learning about Databases.
+- He is also building his blog theme(Accio) for his blog page
 - He loves talking and making contacts. Feel free to contact him in your leisure time.
 
 _Ways to contact him_

@@ -6,8 +6,8 @@
 
 Since he is not present here at the moment, I *Vijard* (why this name?) would help you explore his profile 😀
 
-- He si very exited to learn Go and it's advanced features. Just finding the right time for himself to start with it as he has a basic knowledge with it too .
-- Currently ,he must be learning about Databases.
+- He is very exited to learn Go and it's advanced features. Just finding the right time for himself to start with it as he has a basic knowledge with it too .
+- Currently ,he must be learning about Microservice architechture and wants to explore sysAdmin work through Kubernetes .
 - He is also building his blog theme(Accio) for his blog page
 - He loves talking and making contacts. Feel free to contact him in your leisure time.
 

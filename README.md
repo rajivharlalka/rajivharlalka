@@ -2,7 +2,7 @@
 
 ### Hi There👋, Welcome to Rajiv's Profile &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=rajivharlalka.rajivharlalka-1)
 
-#### A second year undergraduate student at IIT Kharagpur,
+#### An undergraduate student at IIT Kharagpur,
 
 Since he is not present here at the moment, I *Vijard* (why this name?) would help you explore his profile 😀
 

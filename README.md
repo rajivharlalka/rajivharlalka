@@ -6,10 +6,10 @@
 
 Since he is not present here at the moment, I *Vijard* (why this name?) would help you explore his profile 😀
 
-- He is very exited to learn Go and it's concurrency patterns. Just finding the right time for himself to start with it as he has a basic knowledge with it too .
-- Currently ,he must be learning about Microservice architechture and wants to explore sysAdmin work.
+- System Designs, Concurrency and Parallelism, and Databases
+- Currently ,he must be reading some tech blog and wants to explore and wants to try out sysAdmin and Reliabilty Roles.
 - He is also building his blog theme(Accio) for his blog page and would be very greatful to you if you could suggest something. 🙏
-- He loves talking and making contacts. Feel free to contact him in your leisure time.
+- He loves talking and making contacts. Feel free to contact him in your leisure time for anything.
 
 _Ways to contact him_
 

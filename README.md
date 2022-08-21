@@ -6,7 +6,7 @@
 
 Since he is not present here at the moment, I *Vijard* (why this name?) would help you explore his profile 😀
 
-- Loves to talk on System Designs, Concurrency ,Parallelism, Loves to talk on and Databases
+- Loves to talk on System Designs, Concurrency ,Parallelism and Databases
 - Currently ,he must be reading some tech blog and wants to explore and wants to try out sysAdmin and Reliabilty Roles.
 - He is also building his blog theme(Accio) for his blog page and would be very greatful to you if you could suggest something. 🙏
 - He loves talking and making contacts. Feel free to contact him in your leisure time for anything.

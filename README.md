@@ -4,7 +4,7 @@
 
 Since he is not present here at the moment, I *Vijard* (why this name?) would help you explore his profile 😀
 
-- Exploring internals of databases and working on CMU 15/445's assignments on BusTub.
+- Building his first learning database, **parodyDB**.
 - Currently, he must be reading some tech blog or gazing through his infinte long reading list.
 - He loves talking and making contacts. Feel free to contact him in your leisure time for anything.
 
